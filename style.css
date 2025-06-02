@@ -1,4 +1,4 @@
-.container{
+/* .container{
     text-align: center;
     padding: 30px;
 }
@@ -16,4 +16,8 @@
     border: 1px solid black;
     align-content: center;
     justify-self: center;
+} */
+
+#list{
+    display:none;
 }
